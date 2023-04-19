@@ -7,4 +7,5 @@ ScintillaNET.dll=9166536c31f4e725e6befe85e2889a4b
 krnl.dll=273741d7aefa310a43e3ba36bed0d8cd
 krnlss.exe=4d7c519cc2127f785d13694d7a281f33
 krnlss.exe.config=0ed4b3831ff5e91dff636145f68aac4c
+krnltest.exe.config=9e877671208bc343994591f8d637e107
 deeznutsTEST.txt=51a44200ec93904618b35d7270ea1697
